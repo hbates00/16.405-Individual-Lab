@@ -1,0 +1,19 @@
+commit 6118728c4bb07cb4f15b7cc181beac1a31532230
+Author: hbates <hbates@mit.edu>
+Date:   Mon Feb 12 15:39:07 2018 -0500
+
+    Added new lab1b 3.41 files
+    
+    Files added to help experiment with common conflicts and resolution
+
+commit 001da1e133f012fff16a7a47f0f7d5d0bd16283c
+Author: hbates <hbates@mit.edu>
+Date:   Mon Feb 12 15:32:19 2018 -0500
+
+    Added the linux_exercize file
+
+commit 3d7b9257d5502d9502458c5280f0d5b34049a4b9
+Author: hbates <hbates@mit.edu>
+Date:   Mon Feb 12 15:21:26 2018 -0500
+
+    Initial commit
